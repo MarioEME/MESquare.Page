@@ -9,7 +9,7 @@ class About extends Component {
                     <p>I'm a <a href="https://www.linkedin.com/in/mencarnacao/">Software Developer <i className="fab fa-linkedin"></i></a>, born, raised and living in Portugal, writing professional software since 2007. Passionate about programing, a <a href="https://github.com/MarioEME">problem solver <i className="fab fa-github"></i></a> by nature, love to automating everything making life easier.</p>
                     <p><a href="https://www.strava.com/athletes/24372260">Fitness enthusiast <i className="fab fa-strava"></i></a>, you can find me running, hiking or in the gym... trying to live a healthy life.</p>
                     <br />
-                    <p>This site is my attempt to start a blog about software, sports and other random stuffs.</p>
+                     {/* <p>This site is my attempt to start a blog about software, sports and other random stuffs.</p> */}
                     <br />
                     <p>If you have anything to say get in touch:</p>
                     <ul>
